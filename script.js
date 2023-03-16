@@ -1,6 +1,4 @@
-
-
-          function selectLocation(event) {
+function selectLocation(event) {
 
 
                 if(event.target.value.length > 0){
