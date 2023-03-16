@@ -12,3 +12,4 @@
           
      let selectionElement = document.querySelector("#selecttime");
      selectionElement.addEventListener("change", selectLocation); 
+
